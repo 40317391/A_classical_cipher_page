@@ -1,0 +1,23 @@
+textarea {
+border :1 px solid #999999;
+width :30%;
+margin :5 px 0;
+ }
+ 
+ #banner{
+background-color:lightblue;
+font-size: 70px;
+margin-right: 250px;
+margin-left:250px;
+text-align:center;
+}
+
+
+#menu{
+background-color:lightblue;
+font-size: 25px;
+margin-right: 400px;
+margin-left:400px;
+text-align:left;
+
+}
